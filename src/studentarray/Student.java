@@ -3,6 +3,7 @@ package studentarray;
 /**
  * One line added
  * Another line added
+ * Added in the bugfix branch
  *
  * @author paulbonenfant
  */
